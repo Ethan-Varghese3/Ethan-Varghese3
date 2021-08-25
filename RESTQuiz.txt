@@ -1,0 +1,13 @@
+Ethan Varghese
+
+8/25/2021
+
+Computer Science II
+
+1. REST is a design that is used to create the development and the design of the internet.
+
+2. The benefits of REST is that it allows each person to do exactly what they want meaing that they can do what they want when the please which makes the software designing system very flexible.
+
+3. REST APIs are stateless because REST allows people to be very free on what they do REST APIs are statless meaning that they are independent with what they do and thwy do not need any other things to help it program.
+
+4. REST API and CRUD are both APIs.
