@@ -1,0 +1,13 @@
+Ethan Varghese
+
+8/25/2021
+
+Computer Science II
+
+1. The MVC paradigm is a model, view and controller. It is the interaction between a model which holds all of the data to be used, a controller which does exactly like it as said: controls what is being trasfered to the view, and lastly the view which is the display of what is going to happen.
+
+2. The benefit of using this paradigm is mostly for organization purposes and because it is easy to track down and know exactly what is happening at all times.
+
+3. The paradgim is intended to increase the coupling between the model and the view. Because the model holds all of the data and the view is the aftermath or the display of the result.
+
+4. Yes, it is possible for multiple views to associated with the same model because the controller works hand and hand with the model and is supposed to recognize what is actually needed and what is not making multiple views to be used if needed. An example of this could be a graph of the world known cases of the corona virus. The view is able to show the different "hotspots" of the corona virus and is able to figure out what is needed to be displayed.
