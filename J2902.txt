@@ -1,0 +1,13 @@
+5-Nov-2021
+
+What did I learn today? What is the big idea?
+
+What I learned today was what is GitKraken and Test Flight. I learned that GitKraken is used to make a more organized and neat git repository because of how cluttered it is normally. I also leanred tht Test Flight is simply just an app produced by Apple to help test newly invented apps in order for the application to be successful. The big idea is to use these technologies into our version of our course registraion app.
+
+What challenges did I encounter?
+
+I encountered the challenge of not really knowing what some of the technology that some of my team members are reccomending that we use. I had to reasearch them a little bit to understand the concept of it but I will need to go back and relearn what this technolgy is used for and why.
+
+How has what I've learned impacted my thinking?
+
+It has impacted my thinking by showing me how much more I need to learn in computer science and also what else I need to learn to run an application. I am used to shell and how it functions to the point that that is the only application I am comfortable using. But seeing and reading about this technology I have never heard before makes me wonder what else I need to learn for me and my team to become successful for this project.
